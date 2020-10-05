@@ -6,7 +6,7 @@ theme = "ananke"
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Divyansh Manchanda's personal blog"
   facebook = "https://facebook.com/divyanshm"
   twitter = "https://twitter.com/divyanshm7"
   github = "https://github.com/divyanshm"
