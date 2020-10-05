@@ -1,4 +1,4 @@
-baseURL = "http://www.divman.me/"
+baseURL = "https://www.divman.me/"
 languageCode = "en-us"
 title = "Divyansh's Blog"
 theme = "ananke"
